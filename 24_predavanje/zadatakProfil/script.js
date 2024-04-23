@@ -1,6 +1,6 @@
 
 function izmjena(event) {
-    //event.preventDefault(); 
+    event.preventDefault(); 
     
     var ime = document.getElementById("ime").value;
     var prezime = document.getElementById("prezime").value;
