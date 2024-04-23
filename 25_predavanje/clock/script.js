@@ -3,7 +3,6 @@ setInterval(() => {
     let hours = document.getElementById('hours');
     let minutes = document.getElementById('minutes');
     let secondes = document.getElementById('seconds');
-    //let ampm = document.getElementById('ampm');
   
     // Dohvaćanje elemenata indikatora vremena
     let hh = document.getElementById('hh');
